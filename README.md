@@ -26,8 +26,8 @@ Recorded the number of episodes needed for convergence, average return, and obse
 Organized and presented findings with visualizations such as learning curves.
 
 Discussed the impact of each parameter on the algorithm's performance
+![car](https://github.com/KAMAlhameedawi/CuCengRL-q-learning-on-mountain-car-environment/assets/149914341/9d5cc2df-e07f-4b38-8082-7dc53e174ede)
 
-![image](https://github.com/KAMAlhameedawi/CuCengRL-q-learning-on-mountain-car-environment/assets/149914341/b86dc1ea-9442-4a75-8a23-b9eea0b30e86)
 
 ![image](https://github.com/KAMAlhameedawi/CuCengRL-q-learning-on-mountain-car-environment/assets/149914341/8212d74b-6f8d-407e-a3a1-ef1784cdb29f)
 
